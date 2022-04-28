@@ -1,0 +1,12 @@
+header {
+    background-color: thistle;
+}
+body {
+    background-color: beige;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
+
